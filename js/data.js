@@ -16,14 +16,14 @@ var JSONBingo = {"squares": [
         {"square": "Adelaide or the Mighty Black Stump"},
         {"square": "Plane Crash Corner"},
         {"square": "The Buzz with CGP Grey"},
-        {"square": "Emojis"},
+        {"square": "Emojis 🐝🐺"},
         {"square": "YouTube or the Adpocalypse"},
-        {"square": "\"Non-Zero\""},
+        {"square": "“Non-Zero”"},
         {"square": "<s>Viewjacking</s> Freebooting"},
         {"square": "Death"},
         {"square": "Timfoolery"},
         {"square": "Dr. Haran not getting the respect he deserves"},
-        {"square": "\"hard as nails\" or \"posh as cushions\""},
+        {"square": "“hard as nails” or “posh as cushions”"},
         {"square": "'MURRICA"},
         {"square": "Cortex or Unmade"},
         {"square": "Teaching or Journalism"},
@@ -39,6 +39,8 @@ var JSONBingo = {"squares": [
         {"square": "Flags"},
         {"square": "Referendum"},
         {"square": "Audrey or Lulu"},
-        {"square": "Film or Series review"}
+        {"square": "Film or Series review"},
+        {"square": "Cheer Pressure"},
+        {"square": "The Spiritual Home of Numberphile"},
     ]
 };
