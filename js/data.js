@@ -1,9 +1,9 @@
 
-var headerText = "Bingo";
+var headerText = "Hello, Tim.";
 
-var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Code available on github</a>";
+var footerText = "<a href='https://github.com/jeffehobbs/HTML5-bingo/' target='_blank'>Code available on github</a><br /><a href='https://github.com/hi-tim/hi-tim.github.io'>this fork on github</a>";
 
-var winText = "Winner";
+var winText = "You are top chicken.";
 
 var clickSnd = new Audio("audio/click.mp3");
 
@@ -33,12 +33,12 @@ var JSONBingo = {"squares": [
         {"square": "twenty one"},
         {"square": "twenty two"},
         {"square": "twenty three"},
-        {"square": "twenty four"},    	
-        {"square": "twenty five"},    	
-        {"square": "twenty six"},    	
-        {"square": "twenty seven"}, 
-        {"square": "twenty eight"},    	
-        {"square": "twenty nine"},    	
-        {"square": "thirty"}    	
+        {"square": "twenty four"},
+        {"square": "twenty five"},
+        {"square": "twenty six"},
+        {"square": "twenty seven"},
+        {"square": "twenty eight"},
+        {"square": "twenty nine"},
+        {"square": "thirty"}
     ]
 };
